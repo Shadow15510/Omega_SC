@@ -122,7 +122,7 @@
         },
         "Home": {
             "Background": "e6e6e6",
-            "CellBackground": "ffffff",
+            "CellBackground": "e6e6e6",
             "CellBackgroundActive": "e6e6e6",
             "CellText": "000000",
             "CellTextActive": "ffb734",
