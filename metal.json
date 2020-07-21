@@ -122,10 +122,10 @@
         },
         "Home": {
             "Background": "808080",
-            "CellBackground": "000000",
-            "CellBackgroundActive": "ffb734",
+            "CellBackground": "808080",
+            "CellBackgroundActive": "808080",
             "CellText": "000000",
-            "CellTextActive": "ffffff",
+            "CellTextActive": "ffb734",
             "CellTextExternal": "000000",
             "CellTextExternalActive": "ffffff"
         },
