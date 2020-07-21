@@ -39,7 +39,7 @@
             "Disabled": "616161"
         },
         "Calculation": {
-            "BackgroundOdd": "282828",
+            "BackgroundOdd": "101010",
             "BackgroundEven": "000000",
             "EmptyBox": "3b3b3b",
             "EmptyBoxNeeded": "ffba34",
@@ -54,7 +54,7 @@
             "Keyword": "ff000c",
             "Operator": "d73a49",
             "String": "032f62",
-            "GutterViewBackground": "e4e6e7"
+            "GutterViewBackground": "404040"
         },
         "Probability": {
             "Curve": "ffb734",
@@ -76,9 +76,9 @@
             "Text": "ffffff"
         },
         "Toolbox": {
-            "HeaderBackground": "282828",
+            "HeaderBackground": "202020",
             "HeaderText": "fffff",
-            "HeaderBorder": "b5b5b5",
+            "HeaderBorder": "303030",
             "Background": "00000"
         },
         "List": {
@@ -100,8 +100,8 @@
             "Background": "000000",
             "BackgroundSelected": "303030",
             "BackgroundActive": "202020",
-            "BackgroundSelectedAndActive": "252525",
-            "Text": "2e2e2e",
+            "BackgroundSelectedAndActive": "303030",
+            "Text": "808080",
             "TextActive": "ffffff"
         },
         "SubTab": {
