@@ -53,7 +53,8 @@
             "Number": "009999",
             "Keyword": "ff000c",
             "Operator": "d73a49",
-            "String": "032f62"
+            "String": "032f62",
+            "GutterViewBackground": "e4e6e7"
         },
         "Probability": {
             "Curve": "daa520",
