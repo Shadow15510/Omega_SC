@@ -123,11 +123,11 @@
         "Home": {
             "Background": "e6e6e6",
             "CellBackground": "ffffff",
-            "CellBackgroundActive": "ffb734",
+            "CellBackgroundActive": "e6e6e6",
             "CellText": "000000",
-            "CellTextActive": "ffffff",
+            "CellTextActive": "ffb734",
             "CellTextExternal": "000000",
-            "CellTextExternalActive": "ffffff"
+            "CellTextExternalActive": "34b7ff"
         },
         "Atom": {
             "Unknown": "eeeeee",
