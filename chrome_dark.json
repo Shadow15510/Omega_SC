@@ -39,7 +39,7 @@
             "Disabled": "616161"
         },
         "Calculation": {
-            "BackgroundOdd": "050505",
+            "BackgroundOdd": "282828",
             "BackgroundEven": "000000",
             "EmptyBox": "3b3b3b",
             "EmptyBoxNeeded": "ffba34",
@@ -65,7 +65,7 @@
             "Box": "ffb734",
             "BoxVerticalLine": "262626",
             "Selected": "ffb734",
-            "NotSelected": "0a0a0a"
+            "NotSelected": "101010"
         },
         "Graph": {
             "Tangent": "a6a6a6"
@@ -76,19 +76,19 @@
             "Text": "ffffff"
         },
         "Toolbox": {
-            "HeaderBackground": "b5b5b5",
-            "HeaderText": "000000",
+            "HeaderBackground": "282828",
+            "HeaderText": "fffff",
             "HeaderBorder": "b5b5b5",
-            "Background": "ffffff"
+            "Background": "00000"
         },
         "List": {
             "CellBackground": "00000",
-            "CellBackgroundSelected": "171717",
+            "CellBackgroundSelected": "303030",
             "CellBorder": "121210"
         },
         "Button": {
             "Background": "000000",
-            "BackgroundSelected": "171717",
+            "BackgroundSelected": "202020",
             "BackgroundSelectedHighContrast": "ffba34",
             "Border": "050505",
             "RowBorder": "050505",
@@ -98,24 +98,24 @@
         },
         "Tab": {
             "Background": "000000",
-            "BackgroundSelected": "171717",
-            "BackgroundActive": "2e2e2e",
-            "BackgroundSelectedAndActive": "1c1c1c",
+            "BackgroundSelected": "303030",
+            "BackgroundActive": "202020",
+            "BackgroundSelectedAndActive": "252525",
             "Text": "2e2e2e",
             "TextActive": "ffffff"
         },
         "SubTab": {
             "Background": "000000",
-            "BackgroundSelected": "171717",
+            "BackgroundSelected": "303030",
             "Text": "ffffff"
         },
         "Banner": {
-            "FirstBackground": "b5b5b5",
-            "FirstBorder": "b5b5b5",
-            "FirstText": "000000",
-            "FirstVariantBackground": "b5b5b5",
+            "FirstBackground": "303030",
+            "FirstBorder": "050505",
+            "FirstText": "ffffff",
+            "FirstVariantBackground": "202020",
             "FirstVariantBorder": "050505",
-            "FirstVariantText": "000000",
+            "FirstVariantText": "ffffff",
             "SecondBackground": "1f1f1f",
             "SecondBorder": "050505",
             "SecondText": "ffffff"
