@@ -98,15 +98,15 @@
         },
         "Tab": {
             "Background": "000000",
-            "BackgroundSelected": "303030",
-            "BackgroundActive": "202020",
-            "BackgroundSelectedAndActive": "303030",
+            "BackgroundSelected": "202020",
+            "BackgroundActive": "101010",
+            "BackgroundSelectedAndActive": "202020",
             "Text": "808080",
             "TextActive": "ffffff"
         },
         "SubTab": {
             "Background": "000000",
-            "BackgroundSelected": "303030",
+            "BackgroundSelected": "202020",
             "Text": "ffffff"
         },
         "Banner": {
@@ -123,10 +123,10 @@
         "Home": {
             "Background": "000000",
             "CellBackground": "000000",
-            "CellBackgroundActive": "ffb734",
+            "CellBackgroundActive": "000000",
             "CellText": "008f87",
             "CellTextActive": "000000",
-            "CellTextExternal": "008f87",
+            "CellTextExternal": "ffb734",
             "CellTextExternalActive": "000000"
         },
         "Atom": {
