@@ -42,7 +42,8 @@
             "BackgroundOdd": "fafafa",
             "BackgroundEven": "ffffff",
             "EmptyBox": "c4c4c4",
-            "EmptyBoxNeeded": "00857f"
+            "EmptyBoxNeeded": "00857f",
+            "TrigoAndComplexForeground": "ff000c"
         },
         "Code": {
             "Background": "ffffff",
